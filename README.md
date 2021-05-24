@@ -43,8 +43,10 @@
   - 미래의 글
 
     미래의 특정 날짜에 해당하는 글을 쓰면, 그 날짜에 알림 기능
+  
+  <img width="80%" src="https://autobiography.s3.ap-northeast-2.amazonaws.com/book.gif"/>
 
-<img width="80%" src="https://autobiography.s3.ap-northeast-2.amazonaws.com/book.gif"/>
+
 
 - **일대기 UI**
 
