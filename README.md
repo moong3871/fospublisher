@@ -15,7 +15,7 @@
 
 [:ledger: 기능소개](#:ledger:-기능소개)
 
-[:computer:프로젝트 실행 방법](#:computer:-프로젝트-실행-방법)
+[:computer: 프로젝트 실행 방법](#:computer:-프로젝트-실행-방법)
 
 * [- Backend](#--Backend)
 * [- Frontend](#--Frontend)
